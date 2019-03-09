@@ -1,2 +1,7 @@
 Start the work
 add database settings
+add cat 1
+add cat 2
+add 2 cats
+add dog 1
+add dog 2
