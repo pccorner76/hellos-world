@@ -1,1 +1,2 @@
 Start the work
+add database settings
