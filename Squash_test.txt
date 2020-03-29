@@ -7,3 +7,4 @@ add dog 1
 add dog 2
 en
 ok
+online test
